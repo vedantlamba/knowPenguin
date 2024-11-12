@@ -65,6 +65,8 @@ function reducer(state, action) {
         questions: state.questions,
         status: "ready",
       };
+    default:
+      throw new Error("Action Unknown");
   }
 }
 
