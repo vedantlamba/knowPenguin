@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "What's her favorite name that her boyfriend calls her?",
+      "options": ["Ajitu", "Motu", "ButterChicken", "Penguin"],
+      "correctAnswer": 0,
+      "points": 10
+    },
+    {
+      "question": "Which hobby does Ajita enjoy the most?",
+      "options": ["Reading", "Dancing", "Painting", "Cooking"],
+      "correctAnswer": 0,
+      "points": 10
+    },
+    {
+      "question": "What's Ajita's favorite season?",
+      "options": ["Spring", "Summer", "Autumn", "Winter"],
+      "correctAnswer": 0,
+      "points": 10
+    },
+    {
+      "question": "What’s Ajita’s go-to comfort food?",
+      "options": ["Pizza", "Pasta", "Sushi", "Burger"],
+      "correctAnswer": 0,
+      "points": 10
+    },
+    {
+      "question": "Which superpower would Ajita choose?",
+      "options": ["Invisibility", "Time Travel", "Flying", "Telepathy"],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "question": "What's Ajita's favorite color?",
+      "options": ["Red", "Blue", "Green", "White"],
+      "correctAnswer": 3,
+      "points": 10
+    }
+  ]
+}
