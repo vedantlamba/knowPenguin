@@ -83,7 +83,7 @@ function App2() {
   console.log(maxPossiblePoints);
 
   useEffect(function () {
-    fetch("https://vedantlamba.github.io/data/ajituQuestions.json")
+    fetch("https://data-json-hbyw.onrender.com/questions")
       .then((res) => res.json())
       .then((data) => dispatch({ type: "dataReceived", payload: data }))
       .catch((err) => dispatch({ type: "dataFailed" }));
